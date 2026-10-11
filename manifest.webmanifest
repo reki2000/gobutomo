@@ -1,0 +1,12 @@
+{
+  "name": "ぱくっと！ゴブとも",
+  "short_name": "ゴブとも",
+  "description": "かわいいコマを重ねて遊ぶ三目並べ。オフラインでも遊べます。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff6e7",
+  "theme_color": "#fff2d9",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
